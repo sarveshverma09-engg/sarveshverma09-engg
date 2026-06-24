@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Sarvesh Verma 👋
 
-<!--
-**sarveshverma09-engg/sarveshverma09-engg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML)
 
-Here are some ideas to get you started:
+💻 Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Learning Data Science & Machine Learning
+
+🤖 Passionate about Artificial Intelligence and Data-Driven Solutions
+
+🚀 Building Real-World AI & Data Science Projects
+
+## Skills
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Data Analysis
+- Data Visualization
+- Streamlit
+- Git & GitHub
+
+## Projects
+
+- AI Resume Analyzer
+- Smart Data Cleaning Web App
+- Stock Market Data Analyzer
+
+## Currently Learning
+
+- Data Science
+- Statistics for Data Science
+- Exploratory Data Analysis (EDA)
+- Machine Learning
+- Deep Learning
+- Feature Engineering
+- Data Visualization
